@@ -62,7 +62,7 @@ So there are bunch of rules and regulations for naming variables , that one shou
 <br>
 
 
-- `Variables should not contain spaces or commas.`
+- `Variables must not contain spaces or commas.`
   ```c
   It means that if we have a variable name which contains spaces then the compiler will give an error.
 
@@ -75,7 +75,7 @@ So there are bunch of rules and regulations for naming variables , that one shou
 <br>
 <br>
 
-- `Variables should not start with a number.`
+- `Variables must not start with a number.`
   ```c
   It means that if we start the variable name with a number then the compiler will give an error.
 
@@ -88,7 +88,7 @@ So there are bunch of rules and regulations for naming variables , that one shou
 <br>
 <br>
 
-- `Variables should not contain any special characters only "_" is allowed .`
+- `Variables must not contain any special characters only "_" is allowed .`
   ```c
   It means that if we have a variable name which contains special characters then the compiler will give an error.
 
